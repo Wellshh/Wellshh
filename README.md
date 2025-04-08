@@ -1,4 +1,6 @@
-### Hi there 👋
+I’m a third-year Computer Science undergraduate at Southern University of Science and Technology, currently on exchange at The University of Sydney. My main focus: learning, understanding, and changing the world (one line of code at a time). I’m exploring the intersection of AI and philosophy—trying to drag us all, kicking and screaming, out of Plato’s cave. That includes philosophers, machines, and myself.
+
+Building on that focus, my interests lie in cybersecurity—specifically within machine learning architecture. I’m especially drawn to federated learning and how to ensure security and data privacy in distributed systems. I’m also working on accelerating inference for MLLMs (Multi Large Language Models)—optimizing architectures and analyzing inference workflows to reduce computational overhead, boost efficiency, and, just maybe, uncover a unified way to encode (and understand) multimodal information.
 
 <!--
 **Wellshh/Wellshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
